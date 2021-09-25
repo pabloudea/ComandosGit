@@ -23,6 +23,10 @@ Fundamentos de programación
 
 - [X] Tarea
 
+``` python 
+    print('Hola Clase')
+```
+
 
 Clases Aprendices
 
